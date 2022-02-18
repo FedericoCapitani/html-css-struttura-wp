@@ -19,4 +19,10 @@ body{
 .site_header{
     height: 200px;
     background-color: blueviolet;
+    margin-bottom: 20px;
+}
+.banner{
+    height: 600px;
+    background-color: rgb(255, 196, 0);
+    margin-bottom: 20px;
 }
